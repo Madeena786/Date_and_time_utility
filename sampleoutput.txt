@@ -1,0 +1,123 @@
+==========================================
+          DATE AND TIME UTILITY
+==========================================
+1. Calculate Age
+2. Days Between Two Dates
+3. Calculate Working Days
+4. Current Date and Time
+5. Check Leap Year
+6. Exit
+==========================================
+Enter your choice: 1
+
+========== CALCULATE AGE ==========
+Enter your date of birth (YYYY-MM-DD): 2005-05-16
+Date of Birth: 2005-05-16
+Today's Date: 2026-10-26
+Your Age: 21 years
+
+
+==========================================
+          DATE AND TIME UTILITY
+==========================================
+1. Calculate Age
+2. Days Between Two Dates
+3. Calculate Working Days
+4. Current Date and Time
+5. Check Leap Year
+6. Exit
+==========================================
+Enter your choice: 2
+
+====== DAYS BETWEEN TWO DATES ======
+Enter first date (YYYY-MM-DD): 2004-07-12
+Enter second date (YYYY-MM-DD): 2005-05-16
+First Date: 2004-07-12
+Second Date: 2005-05-16
+Days Between: 308
+
+
+==========================================
+          DATE AND TIME UTILITY
+==========================================
+1. Calculate Age
+2. Days Between Two Dates
+3. Calculate Working Days
+4. Current Date and Time
+5. Check Leap Year
+6. Exit
+==========================================
+Enter your choice: 3
+
+========== WORKING DAYS ==========
+Enter start date (YYYY-MM-DD): 2025-10-12
+Enter end date (YYYY-MM-DD): 2026-10-26
+Start Date: 2025-10-12
+End Date: 2026-10-26
+Working Days: 271
+
+
+==========================================
+          DATE AND TIME UTILITY
+==========================================
+1. Calculate Age
+2. Days Between Two Dates
+3. Calculate Working Days
+4. Current Date and Time
+5. Check Leap Year
+6. Exit
+==========================================
+Enter your choice: 2004
+
+Invalid choice.
+Please select a number from 1 to 6.
+
+
+==========================================
+          DATE AND TIME UTILITY
+==========================================
+1. Calculate Age
+2. Days Between Two Dates
+3. Calculate Working Days
+4. Current Date and Time
+5. Check Leap Year
+6. Exit
+==========================================
+Enter your choice: 5
+
+========== LEAP YEAR CHECK ==========
+Enter a year: 2005
+2005 is not a leap year.
+
+
+==========================================
+          DATE AND TIME UTILITY
+==========================================
+1. Calculate Age
+2. Days Between Two Dates
+3. Calculate Working Days
+4. Current Date and Time
+5. Check Leap Year
+6. Exit
+==========================================
+Enter your choice: 5
+
+========== LEAP YEAR CHECK ==========
+Enter a year: 2004
+2004 is a leap year.
+
+
+==========================================
+          DATE AND TIME UTILITY
+==========================================
+1. Calculate Age
+2. Days Between Two Dates
+3. Calculate Working Days
+4. Current Date and Time
+5. Check Leap Year
+6. Exit
+==========================================
+Enter your choice: 6
+
+Thank you for using Date and Time Utility!
+Program ended.
